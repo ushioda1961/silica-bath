@@ -52,7 +52,7 @@ export default function LoginPage() {
               value={storeId}
               onChange={(e) => setStoreId(e.target.value)}
               className="w-full px-4 py-2.5 rounded-lg border border-slate-300 focus:border-primary-500 focus:ring-2 focus:ring-primary-200 outline-none"
-              placeholder="例: amarie"
+              placeholder="例: ushi"
             />
           </div>
           <div>
